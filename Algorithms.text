@@ -1,0 +1,5 @@
+Question - WWhen should you choose linear search and when should you choose binary search. ?
+Answer - When an array is the data structure and elements are arranged in sorted order, then binary search is preferred for quick searching. 
+         If linked list is the data structure regardless how the elements are arranged, 
+         linear search is adopted due to unavailability of direct implementation of binary search algorithm.
+         
